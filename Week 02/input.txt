@@ -1,5 +1,0 @@
-Hello World,
-hello world,
-hello world,
-
-Dit is een voorbeeld file om het Wordcount voorbeeld te testen !
